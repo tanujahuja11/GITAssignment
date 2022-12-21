@@ -10,11 +10,13 @@ public class GreatestNumber {
         float first = sc.nextFloat();
         System.out.println("Enter Second number");
         float second = sc.nextFloat();
+
         System.out.println("Enter Third number");
         float third = sc.nextFloat();
 
         if(first >= second && first >= third)
         {
+
             System.out.println("Greatest number is :"+first);
         }
         else if(second >= first && second >= third)
