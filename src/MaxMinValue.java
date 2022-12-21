@@ -18,7 +18,8 @@ public class MaxMinValue {
                 min =arr[i];
         }
         System.out.println("\nMaximum value is : "+max);
+        //prnting max value
+
         System.out.println("Minimum value is : "+min);
     }
-
 }
